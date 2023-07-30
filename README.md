@@ -1,7 +1,5 @@
 #  Gaurav Verma A
-## Project Portfolio 🚀
-
-This repository contains a collection of my projects.
+## Project Portfolio Navigator🚀
 
 ## [Course Recommendation System using Udemy Dataset 📚](https://github.com/hi-gv/Udemy-course-Recommendation-System)
 
