@@ -12,6 +12,7 @@
 - Evaluated model performance using key metrics such as R² score & Mean Absolute Error (MAE)
 ![](/images/chennai.jpg)
 <br>
+
 ## [Course Recommendation System using Udemy Dataset 📚](https://github.com/hi-gv/Udemy-course-Recommendation-System)
 
 - Developed a cutting-edge course recommendation system utilizing the Udemy dataset sourced from Kaggle, leveraging course titles and descriptions for enhanced accuracy.
