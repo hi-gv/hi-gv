@@ -1,6 +1,17 @@
 #  Gaurav Verma A
 ## Project Portfolio Navigator🚀
 
+## [Chennai Housing Price Prediction](https://github.com/hi-gv/Chennai-House-Prices-Prediction)
+
+- Conducted Exploratory Data Analysis (EDA) to gain insights into the dataset, identify trends, and visualize key features influencing housing prices.
+- Implemented and compared multiple machine learning algorithms:
+    - Developed a Linear Regression model to capture linear relationships between independent variables and housing prices.
+    - Utilized the K-Nearest Neighbors (KNN) Regressor for capturing non-linear patterns in the data.
+    - Constructed a Decision Tree model to identify complex decision boundaries and feature interactions.
+    - Implemented a Random Forest algorithm for improved predictive accuracy and robustness.
+- Evaluated model performance using key metrics such as R² score & Mean Absolute Error (MAE)
+![](/images/chennai.jpg)
+<br>
 ## [Course Recommendation System using Udemy Dataset 📚](https://github.com/hi-gv/Udemy-course-Recommendation-System)
 
 - Developed a cutting-edge course recommendation system utilizing the Udemy dataset sourced from Kaggle, leveraging course titles and descriptions for enhanced accuracy.
