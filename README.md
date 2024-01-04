@@ -40,6 +40,13 @@
 ![](images/zomato.png)
 <br>
 
+
+## [Food-Sales-Data-Analysis-with-PySpark-Visualization-on-a-Databricks-Dashboard🍴](https://github.com/hi-gv/Food-Sales-Data-Analysis-with-PySpark-Visualization-on-a-Databricks-Dashboard/tree/main)
+
+- Designed and implemented a comprehensive notebook for the analysis of Food Sales Data using PySpark. The project focused on extracting key performance indicators (KPIs) and presenting them through a visually appealing Databricks dashboard.
+![](images/food_sales.jpg)
+<br>
+
 ## [Streamlit app integration with OpenAI ChatGPT APIs 💬](https://github.com/hi-gv/ChatGPT-APIs--Streamlit--Lotte-Animation)
 
 - Leveraged Streamlit to create an intuitive user interface, enabling seamless access to OpenAI ChatGPT API's for four key features: explaining Python code, executing SQL queries, conducting sentiment analysis, and performing grammar checking.
