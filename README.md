@@ -33,6 +33,12 @@
 ![](/images/bookmyshow_whatsapp.jpg)
 <br>
 
+## [Food-Sales-Data-Analysis-with-PySpark-Visualization-on-a-Databricks-Dashboard🍴](https://github.com/hi-gv/Food-Sales-Data-Analysis-with-PySpark-Visualization-on-a-Databricks-Dashboard/tree/main)
+
+- Designed and implemented a comprehensive notebook for the analysis of Food Sales Data using PySpark. The project focused on extracting key performance indicators (KPIs) and presenting them through a visually appealing Databricks dashboard.
+![](images/food_sales.jpg)
+<br>
+
 ## [Exploratory Data Analysis on Zomato Dataset 🍴](https://github.com/hi-gv/Exploratory-Data-Analysis-Zomato)
 
 - Successfully conducted Exploratory Data Analysis (EDA) on the Zomato dataset, demonstrating proficiency in handling and cleaning messy data and uncovering insightful relationships between various fields through impactful visualizations.
@@ -40,11 +46,9 @@
 ![](images/zomato.png)
 <br>
 
-
-## [Food-Sales-Data-Analysis-with-PySpark-Visualization-on-a-Databricks-Dashboard🍴](https://github.com/hi-gv/Food-Sales-Data-Analysis-with-PySpark-Visualization-on-a-Databricks-Dashboard/tree/main)
-
-- Designed and implemented a comprehensive notebook for the analysis of Food Sales Data using PySpark. The project focused on extracting key performance indicators (KPIs) and presenting them through a visually appealing Databricks dashboard.
-![](images/food_sales.jpg)
+## [gvBOT - Upload your PDF and Ask Qs using LLMs 🤖](https://github.com/hi-gv/gvBot---QA-PDF)
+- Employed Langchain and OpenAIEmbeddings technologies to enable seamless user interactions, empowering them to upload PDFs and engage in conversational queries through a streamlined Bot interface using Streamlit.
+![](images/gvbot.jpg)
 <br>
 
 ## [Streamlit app integration with OpenAI ChatGPT APIs 💬](https://github.com/hi-gv/ChatGPT-APIs--Streamlit--Lotte-Animation)
@@ -52,11 +56,6 @@
 - Leveraged Streamlit to create an intuitive user interface, enabling seamless access to OpenAI ChatGPT API's for four key features: explaining Python code, executing SQL queries, conducting sentiment analysis, and performing grammar checking.
 - Enhanced user experience and visual appeal by integrating Lotte animations, elevating the overall professionalism of the application.
 ![](/images/chatgpt.jpg)
-<br>
-
-## [gvBOT - Upload your PDF and Ask Qs using LLMs 🤖](https://github.com/hi-gv/gvBot---QA-PDF)
-- Employed Langchain and OpenAIEmbeddings technologies to enable seamless user interactions, empowering them to upload PDFs and engage in conversational queries through a streamlined Bot interface using Streamlit.
-![](images/gvbot.jpg)
 <br>
 
 ## [Explored different automated Exploratory data analytics libraries like d-tale, pandas-profiling 📊](https://github.com/hi-gv/Exploratory-Data-Analytics-Tools)
